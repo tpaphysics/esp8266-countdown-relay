@@ -98,11 +98,11 @@ Endereço 3 -> 192.168.4.1
 
 5. O dispositivo abrirá uma pagina web conforme a figura abaixo:
 
-<p  style="text-align:center">
+<div align="center">
 
 <img width="200px" src=".assets/app.gif">
 
-</p>
+</div>
 
 ## **👨‍🚀 Autor**
 
