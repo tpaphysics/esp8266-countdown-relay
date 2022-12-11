@@ -16,19 +16,19 @@ Neste projeto construímos um protótipo de um acionador remoto de fogos de arti
 
 # 🗺️ Layout
 
-<p  style="text-align:center">
+<div align="center">
 
 <img  src=".assets/layout.png">
 
-</p>
+</div>
 
 <br>
 
-<p  style="text-align:center">
+<div align="center">
 
 <img width="500px" src=".assets/lolinPins.jpg">
 
-</p>
+</div>
 
 # 🚀 Get Started
 
