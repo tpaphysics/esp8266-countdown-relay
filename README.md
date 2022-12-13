@@ -64,7 +64,7 @@ Por fim, carregue o binário escrito em C++ para ESP8266:
 pio run --target upload
 ```
 
-A pasta data foi gerada através do build desta desta [interface web](). Em seguida renomeamos a pasta dist para data e copiamos para o diretório corrente deste projeto.
+A pasta data foi gerada através do build desta desta [interface web](https://github.com/tpaphysics/esp8266-reactjs-web-page). Em seguida renomeamos a pasta dist para data e copiamos para o diretório corrente deste projeto.
 
 # 🚀 Como usar
 
@@ -113,4 +113,4 @@ Endereço 3 -> 192.168.4.1
 
 ## **📝 Licença de uso de software**
 
-Este projeto está sob os termos [Apache Licence v2.0](https://www.apache.org/licenses/LICENSE-2.0)
+Este projeto está sob os termos [Apache Licence v2.0](/LICENCE)
